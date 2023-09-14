@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @isaiahc7
-- 👀 I’m interested in advancing my career in IT with a possible focus in developing 
-- 🌱 I’m currently learning programming/coding and CompTIA A+ cert
-- 💞️ I’m looking to collaborate on learning the basics of IT to find a focus. 
+- 👀 I’m interested in advancing my career in software engineering with a possible focus on automation and AI.
+- 🌱 I’m currently learning HTML/CSS/JavaScript through a web dev class at WGU as well as studying for the CompTIA Security+.
+- 💞️ I’m looking to collaborate on methods of learning the basics in programming/coding. 
 - 📫 How to reach me: irc71421@gmail.com
 
 <!---
